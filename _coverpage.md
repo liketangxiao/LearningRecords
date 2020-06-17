@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2481424715,2807309609&fm=26&gp=0.jpg" width="200" height="200"/>
+<img src="./assets/46228691_p0.jpg" width="600" height="340"/>
 </p>
-<h1 align="center">docsify-demo</h1>
+<h1 align="center">一辈子很短，如白驹过隙，转瞬即逝。</h1>
+<h1 align="center">可这种心情很长，如高山大川，绵延不绝。</h1>
 
-[常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
-[GitHub](https://github.com/Snailclimb/docsify-demo)
+[GitHub](https://github.com/liketangxiao/LearningRecords)
 [开始阅读](#docsify-demo)
 
 
