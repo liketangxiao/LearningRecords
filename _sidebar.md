@@ -1,18 +1,17 @@
 
 
 * 读书笔记
-      * [游戏改变世界](./读书笔记/MarkDown/游戏改变世界.md)
-
+	* [游戏改变世界](./读书笔记/MarkDown/游戏改变世界.md)
 * 技术总结
     * [算法学习](./技术总结/MarkDown/算法学习.md)
     * [虚拟机学习](./技术总结/MarkDown/虚拟机学习.md)
     * [设计模式学习](./技术总结/MarkDown/设计模式学习.md)
     * [Back-End](./技术总结/MarkDown/Back-End.md)
     * [HTTP](./技术总结/MarkDown/HTTP.md)
-    * [Java IO](./技术总结/MarkDown/Java IO.md)
-    * [Java 基础](./技术总结/MarkDown/Java 基础.md)
-    * [Java 容器](./技术总结/MarkDown/Java 容器.md)
-    * [Java 并发](./技术总结/MarkDown/Java 并发.md)
+    * [JavaIO](./技术总结/MarkDown/JavaIO.md)
+    * [Java基础](./技术总结/MarkDown/Java基础.md)
+    * [Java容器](./技术总结/MarkDown/Java容器.md)
+    * [Java并发](./技术总结/MarkDown/Java并发.md)
     * [ORM框架](./技术总结/MarkDown/ORM框架.md)
     * [Spring](./技术总结/MarkDown/Spring.md)
     * [中间件](./技术总结/MarkDown/中间件.md)
