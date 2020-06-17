@@ -2,8 +2,6 @@
 
 ## 数据区域
 
-![jvm-memory-structure](assets/jvm-memory-structure.jpg)
-
 ### 程序计数器
 
 - 记录执行程序字节码的地址
@@ -18,15 +16,14 @@
 
 ### 堆
 
-为对象分配内存,GC工作的主要区域
-
+- 为对象分配内存,GC工作的主要区域
 - 新生代
 
-  新对象再Eden区, 回收存活到从From Survivor 到To Survivor
+	- 新对象再Eden区, 回收存活到从From Survivor 到To Survivor
 
 - 老年代
 
-  java8元数据取待老年代, 保存在本机内存中
+  java8没有老年代, 被本机存储取待
 
 - 永久代
 
