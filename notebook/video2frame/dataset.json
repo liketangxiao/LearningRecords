@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "class_num": 1,
+        "class_name": [
+            "zq"
+        ]
+    },
+    "annotation": {
+        "label1_abcdefg": {
+            "path": "./zq.mp4",
+            "class": 1
+        }
+    }
+}
